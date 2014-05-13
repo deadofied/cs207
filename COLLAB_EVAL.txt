@@ -1,0 +1,7 @@
+--------------
+COLLABORATIONS
+--------------
+
+We sent our SDL extensions to Connor and Soren. 
+
+We didn't integrate any other code. If we had more time we would've integrated some of Jody's SDL extensions (keyboard integration such as play/pause of force-based drawing algorithms) as we asked her for them and received them, but didn't have time to look into them. 
